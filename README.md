@@ -86,6 +86,7 @@ Gain-Bandwidth Product: 12.3 MHz
 
 
 # 4. Comparison of Configurations
+
 ISS provides better gain stability but requires an active current source.
 RSS is simpler but introduces variations due to resistor mismatch.
 M3 biasing improves tail current mirroring.
